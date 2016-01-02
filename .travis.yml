@@ -1,3 +1,9 @@
 language: java
+script: "make test"
+branches:
+  only:
+    - master
+notification:
+  email:
+    - sangmo.gu@gmail.com
 
-gradle check
