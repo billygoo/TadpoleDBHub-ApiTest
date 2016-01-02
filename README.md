@@ -4,7 +4,7 @@ for TadpoleDBHub Api Test
 
 이해
 - 
-자사한 환경은 이(
+자세한 환경은 이(
 https://github.com/hangum/TadpoleDBHub_APIServer/issues/8) 이슈를 살펴보십시오
 
 실행환경
